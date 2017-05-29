@@ -12,6 +12,9 @@ module.exports = {
                     },
                     {
                         loader: 'ejs-loader',
+                        query: {
+                            variable: 'o',
+                        }
                     },
                 ],
             },
