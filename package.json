@@ -17,10 +17,6 @@
   "license": "LGPL-3.0",
   "babel": {
     "presets": [
-      ["es2015", { "modules": false} ],
-      "es2016",
-      "es2017",
-      "stage-3"
     ]
   },
   "devDependencies": {
