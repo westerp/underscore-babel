@@ -7,9 +7,9 @@ module.exports = {
             {
                 test: /\.html$/,
                 use: [
-/*                    {
+                    {
                         loader: 'babel-loader',
-                    },*/
+                    },
                     {
                         loader: 'ejs-loader',
                     },
